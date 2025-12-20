@@ -1,1 +1,5 @@
 tickers/*
+/plots/*
+plots
+/plots
+./plots/*
